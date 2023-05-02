@@ -3,10 +3,15 @@
 This folder contains the resources for an AWS infrastructure setup that includes the following components:
 
 AWS VPC with 3 public and 3 private subnets
+
 ECS Cluster - Backend
+
 S3 - Static site hosting
+
 CDN with S3 Static site
+
 S3 - Storage
+
 RDS
 
 
